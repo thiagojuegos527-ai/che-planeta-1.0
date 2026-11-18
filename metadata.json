@@ -1,6 +1,0 @@
-{
-  "name": "Che Planeta",
-  "description": "Herramienta ecológica e innovadora impulsada por IA para escanear objetos, descubrir ideas creativas de reutilización DIY, guías de reciclaje e impacto ambiental.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
